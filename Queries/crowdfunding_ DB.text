@@ -27,7 +27,7 @@ subcategory_name varchar(50)
 
 contacts
 -
-contact_id
+contact_id int
 first_name varchar(50)
 last_name varchar(50)
-email carcahr(100)
+email varcahr(100)
